@@ -23,6 +23,8 @@ Rust by Example - https://doc.rust-lang.org/rust-by-example/
 ### Hardware:
 Arduino MKR Wifi 1010 - https://store.arduino.cc/usa/mkr-wifi-1010
 
+ATSAMD21G18 - https://www.microchip.com/wwwproducts/en/ATsamd21g18
+
 U-BLOX NINA-W10 Series - https://www.google.com/search?client=firefox-b-1-d&q=U-BLOX+NINA-W10+Series
 
 ### Robotics:
