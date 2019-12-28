@@ -1,6 +1,5 @@
-# ECE-HACoSR2
-High Assurance Controller for inverted pendulum robot II
-
+# ECE-High Assurance Controller for inverted pendulum robot II
+Group Members: 	Ignacio Mejia-Rodriguez, Artem Kulakevich, Andrew Forsman, Yuqi Wang
 
 ## Useful Link:
 
