@@ -39,6 +39,19 @@ Advanced formal verification - https://www.springer.com/gp/book/9781402077210
 
 Control of Complex Systems - https://www.springer.com/gp/book/9781441912152
 
+Modern Robotics Mechanics, Planning, and Control - http://hades.mech.northwestern.edu/images/7/7f/MR.pdf
+
+Modern Robotics Series - https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
+
 ### MORE SPECIFIC REFERENCES
 
 https://github.com/GaloisInc/HighAssuranceControllerOfSelfBalancingRobotCapstone/blob/master/docs/Copy_of_Team_26__Final_Report_no_code.pdf
+
+## Assignments
+
+### PDS:
+https://docs.google.com/document/d/1bB-iQdf3sqxXgQ0YUO4SQxUESWV0r2shidwh4ZEhcts/edit?ts=5e0249a5
+
+### Project Schedule:
+
+### 
