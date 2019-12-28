@@ -28,7 +28,7 @@ ATSAMD21G18 - https://www.microchip.com/wwwproducts/en/ATsamd21g18
 U-BLOX NINA-W10 Series - https://www.google.com/search?client=firefox-b-1-d&q=U-BLOX+NINA-W10+Series
 
 ### Robotics:
-Modern Robotics - https://www.youtube.com/watch?v=A14ArEZ47LE
+Modern Robotics Series - https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
 
 Self-Balancing Robot in Rust - https://github.com/japaric/zen
 
@@ -40,8 +40,6 @@ Advanced formal verification - https://www.springer.com/gp/book/9781402077210
 Control of Complex Systems - https://www.springer.com/gp/book/9781441912152
 
 Modern Robotics Mechanics, Planning, and Control - http://hades.mech.northwestern.edu/images/7/7f/MR.pdf
-
-Modern Robotics Series - https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
 
 ### MORE SPECIFIC REFERENCES
 
