@@ -32,14 +32,14 @@ Modern Robotics Series - https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP
 
 Self-Balancing Robot in Rust - https://github.com/japaric/zen
 
+Modern Robotics Mechanics, Planning, and Control - http://hades.mech.northwestern.edu/images/7/7f/MR.pdf
+
 ### Books:
 Advanced control of wheeled inverted pendulum systems - https://link.springer.com/book/10.1007/978-1-4471-2963-9
 
 Advanced formal verification - https://www.springer.com/gp/book/9781402077210
 
 Control of Complex Systems - https://www.springer.com/gp/book/9781441912152
-
-Modern Robotics Mechanics, Planning, and Control - http://hades.mech.northwestern.edu/images/7/7f/MR.pdf
 
 ### MORE SPECIFIC REFERENCES
 
