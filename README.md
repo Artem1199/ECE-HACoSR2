@@ -3,8 +3,10 @@ Group Members: 	Ignacio Mejia-Rodriguez, Artem Kulakevich, Andrew Forsman, Yuqi 
 
 ## Useful Link:
 
-### Galois Git: 
+### Galois: 
 https://github.com/GaloisInc/HighAssuranceControllerOfSelfBalancingRobotCapstone
+
+http://web.cecs.pdx.edu/~faustm/capstone/projectdescriptions/2020/f1652a60-4c00-4ca7-9bbd-d808e85e005b/ECE%20Casptone_%20High%20assurance%20controller_II.pdf
 
 ### Grading:
 Capstone Grading Rubrics - http://web.cecs.pdx.edu/~faustm/capstone/forms.php
