@@ -1,0 +1,10 @@
+\begin {longtable}{@{}|l|l|>{\hsize =\vhAuthorColWidth }X|>{\hsize =\vhChangeColWidth }X|@{}}\hline 
+\textbf {\vhversionname }
+ & \textbf {\vhdatename }
+ & \textbf {\vhauthorname }
+ & \textbf {\vhchangename }\\\hline 
+0
+ & 01/20/2020
+ & \listset {AF,IMR,AK,YW}
+ & Initial Release\\\hline 
+\end {longtable}
