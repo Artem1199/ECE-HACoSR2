@@ -161,7 +161,7 @@ The requirements have been broken into things that we “must” complete, “sh
 \textbf{MUST}
 \begin{itemize}
     \item Extend the existing code for the inverted pendulum robot to include a Rust control library.
-    \item Modify Lustre/Kind2 Rust code generator to generate “embedded-friendly” Rust, which can be directly imported in your library.
+    \item Modify Lustre/Kind 2 Rust code generator to generate “embedded-friendly” Rust, which can be directly imported in your library.
     \item Develop and identify a model of a nominal self-balancing robot in Octave or MATLAB.
     \item Isolate the “Software Under Test” as a severable block to analyze only the linear/non-linear controller for specific properties.
     \item Develop and identify a dynamics model of the robot in Octave or MATLAB.
@@ -174,7 +174,7 @@ The requirements have been broken into things that we “must” complete, “sh
 \end{itemize}
 \textbf{MAY}
 \begin{itemize}
-    \item Attempt to leverage Rust quickcheck to verify the properties developed in Kind2 in the source files after the control design is implemented.
+    \item Attempt to leverage Rust Quickcheck to verify the properties developed in Kind 2 in the source files after the control design is implemented.
     \item Develop a suite of verified nonlinear controllers and compare their performance with linear variants.
     \item Translate Rust code into a LEAN theorem definitions for verification.
 \end{itemize}
@@ -183,7 +183,7 @@ The requirements have been broken into things that we “must” complete, “sh
 \subsection{TWIP}
 	\begin{figure}[H]
 \includegraphics[width = \textwidth]{images/PDS_TWIP.png}
-\caption{Simplified image of a TWIP}
+\caption{Simplified image of a TWIP\cite{yang}}
 	\end{figure}
 The model used for the design will be dependent upon the method of control that we wish to implement. For a linear control method the model will be centered about the equilibrium point corresponding to the two-wheeled inverted pendulum (TWIP) being upright. This yields the following state space representation \cite{yang} :
 	\begin{figure}[H]
