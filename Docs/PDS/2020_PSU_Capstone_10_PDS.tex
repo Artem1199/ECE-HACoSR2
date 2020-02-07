@@ -151,10 +151,16 @@
 \pagenumbering{arabic}
 
 \section{Introduction}
-	The purpose of this document is to explain the requirements that Galois has given us in our project. In addition, we will communicate the background and research associated with several of the requirements. In specific, we will provide information on the controller, firmware, verification, and robot design.
+	The purpose of this document is to explain the requirements that Galois has given us in our project. In addition, we will communicate the background and research associated with several of the requirements. Specifically, we will provide information on the controller, firmware, verification, and robot design.
 	
 \section{Objective}
-	Tools and practices for designing and verifying high assurance software systems are not fully standardized. In order to explore the processes involved in this type of development, a test case using a control system for a two-wheeled inverted pendulum (TWIP) will be explored and documented.
+	Tools and practices for designing and verifying high assurance hardware/software systems are not fully standardized. High assurance systems are desirable in situations where a machine's performance could impact a person's health. In order to explore the processes involved in this type of development, a test case using a control system for a two-wheeled inverted pendulum (TWIP) will be explored and documented.
+	
+\section{General Background}
+	A Two-Wheeled Inverted Pendulum is a type of robot that balances on two wheels. There are some clear advantages to this model (more stable up steep inclines, smaller footprint, fewer mechanical parts), however it is much less stable than four-wheeled robots. In order to keep the robot upright, a feedback system must be implemented. This system takes data describing the current position of the robot and translates it into motion in the wheels in order to prevent the robot from falling over. A PSU Capstone team from 2019 built such a robot and implemented a linear controller. In order to aid in this process, they also developed a model of the robot in MATLAB, and created a simulator that modeled the system's response to various inputs. Additionally, they did some work in exploring implementing the controller in Rust, a programming language that is designed to be inherently secure. This project intends to build on the work this previous team did, and continue some of the threads they began. 
+	
+	We will attempt to develop an alternative controller to the linear controller the previous team designed, using a model in MATLAB, verify that it works, and generate embedded Rust from verified code. Then the code will be loaded onto an upgraded robot, and it's performance compared with the model, as well as the previously implemented controller.
+	
 \section{Overview \& Guidelines}
 The requirements have been broken into things that we “must” complete, “should” complete, and "may" complete. It should be noted that these requirements were set by Galois and may seem to be less abstract than normal.\\
 
