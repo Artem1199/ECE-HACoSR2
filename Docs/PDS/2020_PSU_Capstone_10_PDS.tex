@@ -137,6 +137,7 @@
 % Version History ------------------------------------------------
 \begin{versionhistory}
     \vhEntry{0}{01/20/2020}{AF,IMR,AK,YW}{Initial Release}
+    \vhEntry{1}{02/18/2020}{AF}{Added General Background and robot image citation}
     \renewcommand \vhAuthorColWidth{.8\hsize}
     \renewcommand \vhChangeColWidth{1.2\hsize}
 \end{versionhistory}
@@ -239,7 +240,7 @@ There are many types of existing self-balancing robot structures. The structure 
 
  \begin{figure}[H]
 \includegraphics[width = \textwidth]{images/PDS_Robot.png}
-\caption{Mechanical Structure of TWIP Robot.}
+\caption{Mechanical Structure of TWIP Robot.\cite{zhuqin}}
 	\end{figure}
 \par
 The core problem of a two-wheeled balancing robot is the problem of motion balance control. Two-wheeled robots must always maintain an upright posture. While maintaining a balanced posture, they also need to complete various tasks, such as traveling, rotating, climbing, and crossing obstacles. The completion of these tasks will inevitably result in the elevation angle $\Theta$. Therefore, in order to balance the cart, the angle of elevation $\Theta$ must be reduced or even eliminated. In our design, we need to control $\Theta$ within a certain range. An effective method to eliminate the $\Theta$ angle is to use a feedback loop to engage the SAMD21 control motor, causing the chassis to move, ensuring that it is on the same vertical line as the upper and lower parts of the vehicle body.\par
