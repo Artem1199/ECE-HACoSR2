@@ -1,0 +1,3 @@
+[submodule "otis-arduino"]
+	path = otis-arduino
+	url = https://github.com/Artem1199/otis-arduino
